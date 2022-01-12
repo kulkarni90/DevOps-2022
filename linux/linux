@@ -1,0 +1,44 @@
+INTRODUCTION:
+
+	Linux is an open source operating system which manages the communication between hardware components and software.It was launched by linus torvalds.
+As it is an open source operating system, it is developed by different organizations in different flavours like ubuntu, redhat, centOS, fedora, etc...
+
+Features:
+
+1. Free and open source: it is freely and easily avialable to anyone
+2. Multiuser capacity: more than one user can access the system
+3. Security: It is more secure than windows and virus can't easily break the kernel.
+4. Multi tasking: Multiple applications can run at same time.
+5. It is both GUI and CLI
+
+LINUX COMPONENTS: It consists of 
+
+1. users, who interact direcctly with the application software.
+2. Application software.
+3. Shell: It takes the commands from the user, interprets the command, executes the command and communicate with the kernel to do a particular operation.
+4. Kernel: Kernel recieves the command operations from the shell and push that to the hardware in a language which the hardware can understand.
+5. Hardware: Hardware will perform the operations and sends it back to the kernel.
+
+Some Basic commands:
+
+1. pwd: present working directoru
+2. mkdir: used to create a new directory
+3. cd: used to change the current directory
+4. ls: displays the list of content of a directory
+5. touch: used to create file.
+6. cat: to view the content of the file.
+7. rmdir: to delete an empty directory
+8. rmdir -r: to delete a directory
+9. cp: used to copy a directory or a file
+10. mv: to move file or directory from one location to another location
+11. tail: displays last 10 lines of a file.
+12. head: displays first 10 lines of a file.
+13. chmod: to change access modes
+14. grep: used to search content from a file.
+15. find: to find a file in a directory.
+16. date: displays the date.
+17. time: displays the time.
+18. clear: to clear the terminal screen.
+
+
+
