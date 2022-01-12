@@ -1,0 +1,17 @@
+it defines which operations are allowed by which users
+there are users like
+user/owner - u
+group - g
+others - o
+all - a
+permissions like
+read - r
+write - w
+execute - x
+no permission - o
+it can be done in binary format too
+r=4
+w=2
+x=1
+no=0
+
