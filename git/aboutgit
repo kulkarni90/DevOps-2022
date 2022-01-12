@@ -1,0 +1,21 @@
+git- git is a version control system used to keep and manage source code
+
+github - github is a cloud based hosting service used to manage git repositories
+
+there are two types of version control systems
+
+1)centralized - it has single repository and developers can fetch files from that single repository
+
+2)distributed - it has single server which acts as a central storage and developers will have a copy in local with all the versioned files
+
+*git is a distributed version control system
+
+in github we have keywords like:
+git
+github 
+staging
+commit
+branch
+clone
+remote
+

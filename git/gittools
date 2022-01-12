@@ -1,0 +1,10 @@
+we have different tools for different operations in git
+1)git,github - to manage and store source code
+2)ant,maven - build tools
+3)ansible,chef - configuration management
+4)terraform - infrastructure provisioning tool
+5)docker,kubernetes - containerization
+6)jenkins - continuouse integration
+7)nagios - monitoring
+8)cloud hosting - aws,gcp
+
