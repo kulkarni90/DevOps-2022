@@ -1,0 +1,5 @@
+linux has three types of file systems
+1)normal files = contains text files and binary files
+2)directory files = contains folders and all sub directories
+3)device files + every device is considered as a file in linux
+

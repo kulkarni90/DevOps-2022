@@ -1,0 +1,11 @@
+git init - creates new local repository
+git clone - creates a local copy of remote repository
+git add directory - stages specific directory
+git add file - stages specific file
+git add -A - stages all changed files
+git add . - stages all new and changed files not deleted files
+git commit -m "message" - commit everything that is staged
+git status - show status of changes
+git branch [branch] - creates new branch
+git checkout [branch] - switch to that branch
+git branch - list of branches

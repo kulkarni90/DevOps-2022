@@ -1,0 +1,5 @@
+linux has three types of editors
+geditor = it is graphical editor and works only in desktop version
+vi editor = it is visual editor,unix based and can work anywhere
+nano editor = it is command line editor and is like notepad
+

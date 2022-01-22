@@ -1,0 +1,12 @@
+pwd - present working directory
+ls - list of files
+ls -a - list of all hidden files
+cd dir - to go to a directory
+mkdir dir - to create a directory
+touch file - to create a file
+cat file - to display the content of a file
+clear - to clear the screen
+esc - to switch to command mode
+i - to insert the words
+:wq - to save and quit
+
