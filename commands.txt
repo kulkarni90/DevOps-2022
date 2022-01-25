@@ -1,0 +1,11 @@
+pwd - to know currently in which directory we are in
+ls - list of files
+cd - to change directory
+mkdir - to create a new directory
+touch - to create a file
+cat - to display the content of a file
+rm - to remove a file
+clear - to clear the screen
+ls -a - list of all hidden files 
+i - to insert the data
+
