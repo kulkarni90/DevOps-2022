@@ -1,0 +1,6 @@
+cp - copy files from one directory to other directory
+mv - to move files and also to rename files
+locate - to locate a file
+find - to locate files within a given directory
+grep - allows to search through all the text in a file
+sudo - enables you to perform tasks that require root permissions
