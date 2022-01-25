@@ -1,3 +1,4 @@
+
 pwd - to know currently in which directory we are in
 ls - list of files
 cd - to change directory
@@ -9,3 +10,10 @@ clear - to clear the screen
 ls -a - list of all hidden files 
 i - to insert the data
 
+=======
+cp - copy files from one directory to other directory
+mv - to move files and also to rename files
+locate - to locate a file
+find - to locate files within a given directory
+grep - allows to search through all the text in a file
+sudo - enables you to perform tasks that require root permissions
